@@ -7,7 +7,7 @@ import MyTodo from './component/MyTodo';
 function App() {
   return (
     <div className="App">
-      {/* <Todo/> */}
+      {/* <Todo/> This is basically a tried project to see the effect of git */}
     <MyTodo/>
     </div>
   );
